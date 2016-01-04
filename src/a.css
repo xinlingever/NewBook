@@ -1,0 +1,23 @@
+#canvas{
+    font-size: 48px;
+    font-family: serif;
+    
+    
+}
+
+#host{
+    width: 1000px;
+    height: 650px; 
+}
+
+#progress{
+    width:100%;
+    height: 10px;
+    display:flex;
+}
+
+.nav-button{
+  width:100px;
+  height:40px;
+}
+
